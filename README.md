@@ -1,4 +1,4 @@
-# boombike-assignment
+# BoomBike-Assignment
 Upgrad linear regression assignment
 
 Table of Contents
